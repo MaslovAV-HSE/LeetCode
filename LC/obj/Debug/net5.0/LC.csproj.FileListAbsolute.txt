@@ -1,0 +1,16 @@
+C:\Users\a.maslov\source\repos\LC\LC\bin\Debug\net5.0\LC.exe
+C:\Users\a.maslov\source\repos\LC\LC\bin\Debug\net5.0\LC.deps.json
+C:\Users\a.maslov\source\repos\LC\LC\bin\Debug\net5.0\LC.runtimeconfig.json
+C:\Users\a.maslov\source\repos\LC\LC\bin\Debug\net5.0\LC.runtimeconfig.dev.json
+C:\Users\a.maslov\source\repos\LC\LC\bin\Debug\net5.0\LC.dll
+C:\Users\a.maslov\source\repos\LC\LC\bin\Debug\net5.0\ref\LC.dll
+C:\Users\a.maslov\source\repos\LC\LC\bin\Debug\net5.0\LC.pdb
+C:\Users\a.maslov\source\repos\LC\LC\obj\Debug\net5.0\LC.csproj.AssemblyReference.cache
+C:\Users\a.maslov\source\repos\LC\LC\obj\Debug\net5.0\LC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.maslov\source\repos\LC\LC\obj\Debug\net5.0\LC.AssemblyInfoInputs.cache
+C:\Users\a.maslov\source\repos\LC\LC\obj\Debug\net5.0\LC.AssemblyInfo.cs
+C:\Users\a.maslov\source\repos\LC\LC\obj\Debug\net5.0\LC.csproj.CoreCompileInputs.cache
+C:\Users\a.maslov\source\repos\LC\LC\obj\Debug\net5.0\LC.dll
+C:\Users\a.maslov\source\repos\LC\LC\obj\Debug\net5.0\ref\LC.dll
+C:\Users\a.maslov\source\repos\LC\LC\obj\Debug\net5.0\LC.pdb
+C:\Users\a.maslov\source\repos\LC\LC\obj\Debug\net5.0\LC.genruntimeconfig.cache
